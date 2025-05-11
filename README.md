@@ -73,11 +73,11 @@ MyLatexPlugin/
 ├── main.ts
 ├── settings.ts
 ├── compiler/
-│		├── OnlineCompiler.ts
-│		└── OfflineCompiler.ts
+│	├── OnlineCompiler.ts
+│	└── OfflineCompiler.ts
 ├── utils/
-│		├── CacheManager.ts
-│		└── DependencyParser.ts
+│	├── CacheManager.ts
+│	└── DependencyParser.ts
 ├── styles.css
 ├── manifest.json
 ├── package.json
